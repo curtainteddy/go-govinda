@@ -11,3 +11,4 @@ vendor/
 
 # Ignore Go build files
 *.test
+*.yml
