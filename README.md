@@ -1,6 +1,6 @@
 # go-govinda 🎭
 
-![[demo.gif]]
+![Demo](demo.gif)
 
 A straightforward CLI Todo app built in Go — no drama, just action. Like Govinda in his prime.
 
